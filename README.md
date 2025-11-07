@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm a Back-End Developer in the making! 🚀</h2>
+<h2 align="center">Hi there 👋 I'm a Full-Stack Developer in the making! 🚀</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI5YzU1YjBlN2UwYjBkODNmZWM2ODg5ZTQwZTJlNTE4ZmY3ZTRkZCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" alt="anime cherry blossom gif">
